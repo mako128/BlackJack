@@ -24,5 +24,5 @@ I shuffled the deck of cards by using a for loop and in that for loop i created 
 
 # Bugs
 
-Although the Play Again button works, when starting a new game the window quickly opens in the top left corner, then goes blank, before opening fully centre screen which is something I'm looking at fixing. If you're reading this and have suggestions on how to fix this please let me know.
+Although the Play Again button works, when starting a new game the window quickly opens in the top left corner, then goes blank, before opening fully centre screen which is something I'm looking at fixing. If you're reading this and have suggestions on how to fix this please let me know.<br></br>
 ![playagainscreenshots](https://github.com/mako128/BlackJack/blob/main/markdown%20images/Screenshot%202023-11-26%20at%2015.09.22.png) ![playagainscreenshots](https://github.com/mako128/BlackJack/blob/main/markdown%20images/Screenshot%202023-11-26%20at%2015.10.26.png)
