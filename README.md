@@ -20,4 +20,9 @@ I then used a for loop using the length of the array types, and within that for 
 ## shuffleDeck Method
 
 I shuffled the deck of cards by using a for loop and in that for loop i created a random card and swapped the random card with the current card in the array.
-![buildDeckSnippet](https://github.com/mako128/BlackJack/blob/main/markdown%20images/shuffleDeckSnippet.png)
+![shuffleDeckSnippet](https://github.com/mako128/BlackJack/blob/main/markdown%20images/shuffleDeckSnippet.png)
+
+#Bugs
+
+Although the Play Again button works, when starting a new game the window quickly opens in the top left corner before opening fully centre screen which is something I'm looking at fixing. If you're reading this and have suggestions on how to fix this please let me know.
+![playagainscreenshots](https://github.com/mako128/BlackJack/blob/main/markdown%20images/Screenshot%202023-11-26%20at%2015.09.22.png) ![playagainscreenshots](https://github.com/mako128/BlackJack/blob/main/markdown%20images/Screenshot%202023-11-26%20at%2015.10.05.png) ![playagainscreenshots](https://github.com/mako128/BlackJack/blob/main/markdown%20images/Screenshot%202023-11-26%20at%2015.10.26.png)
