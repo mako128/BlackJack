@@ -1,4 +1,4 @@
-![Black Jack Banner](https://github.com/mako128/BlackJack/blob/main/Black_Jack.png)
+![Black Jack Banner](https://github.com/mako128/BlackJack/blob/main/markdown%20images/Black_Jack.png)
 
 # How to play
 
@@ -8,3 +8,11 @@ Once the player goes over 21 they are bust and can't take any more cards so they
 The aim of the game is to get a higher value than the dealer without going over 21
 
 The dealer has to keep drawing cards until they reach 17 or over and then they have the choice to stand.  Ace values count as 1 as long as you're under 21 and at least have 1 ace.
+
+# Logic
+
+I built the deck by making an array of all the suits and all the card values needed for a game of BlackJack
+I then used a for loop using the length of the array types, and within that for loop i used another for loop for the length of the array values to create a new object called card that has both the concatenated value and type of card using the index of both arrays.
+![buildDeckSnippet](https://github.com/mako128/BlackJack/blob/main/markdown%20images/buildDeckSnippet.png)
+
+
